@@ -1,19 +1,18 @@
 {
     "layout": "home.njk",
     "page": {
-        "title": "ServerlessDays - Home",
-        "description": "The third edition of ServerlessDays Sydney is upon us, new venue, higher capacity, bigger program. Get your Serverless on!",
-        "url": "https://sydney.serverlessdays.io/",
-        "image": "https://sydney.serverlessdays.io/img/SydneyHarbourOperaHouse.jpg",
-        "twitter": "https://twitter.com/SydDays"
+        "title": "ServerlessDays Sydney - Home",
+        "description": "One Day. One Track. One Community",
+        "url": "https://sydney.serverlessdays.io",
+        "image": "https://res.cloudinary.com/du73ags2q/image/upload/v1561613359/SydneyHarbourOperaHouse_jvfdhr.jpg"
     },
     "eventDetails": {
         "name": "Sydney",
         "description":"Let's get Serverless",
-        "startDate": "27 August 2019",
+        "startDate": "9 July 2019",
         "endDate": "27 August 2019",
-        "logo": "img/serverless_white_new.svg",
-        "hero": "img/SydneyHarbourOperaHouse.jpg",
+        "logo": "https://res.cloudinary.com/serverlessdays/image/upload/v1528146521/serverless_white_new.svg",
+        "hero": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,w_640/v1561613359/SydneyHarbourOperaHouse_jvfdhr.jpg",
         "tagline": "One Day. One Track. One Community",
         "cta": {
             "path": "https://ti.to/serverless-days-sydney/serverless-days-sydney-2019",
@@ -27,79 +26,90 @@
     "sponsors": {
         "platinum": [
             {
-                "img": "img/MS-Azure_logo_stacked_c-gray_rgb.png",
-                "alt": "Microsoft Azure",
-                "link": "http://azure.microsoft.com/en-au/"
-            },
-            {
-                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_115/v1528241128/Amazon_Web_Services_Logo_white.png",
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_85/v1560864763/83f.AWS_logo_RGB_qipiis.png",
                 "alt": "Amazon Web Services",
                 "link": "https://aws.amazon.com"
             },
             {
-                "img": "img/Contino_Logo_white_PRINT.png",
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_130/v1560864795/MS-Azure_logo_stacked_c-gray_rgb_t2fuwb.png",
+                "alt": "Microsoft Azure",
+                "link": "https://azure.microsoft.com/"
+            },
+            {
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_90/v1560864765/Contino_Logo_white_PRINT_stougi.png",
                 "alt": "Contino",
-                "link": "https://www.contino.io"
+                "link": "https://www.contino.io/"
             }
         ],
         "gold": [
             {
-                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_45/v1529401537/google-cloud-logo-white.png",
+                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_35/v1529401537/google-cloud-logo-white.png",
                 "alt": "Google Cloud Platform",
                 "link": "https://cloud.google.com"
             },
             {
-                "img": "img/Versent-Logo-Large-with-name.png",
-                "alt": "Versent",
-                "link": "https://versent.com.au"
-            },
-            {
-                "img": "img/gitlab-icon-rgb.png",
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_90/v1560864769/gitlab-icon-rgb_l0ye82.png",
                 "alt": "Gitlab",
-                "link": "https://gitlab.com"
+                "link": "https://about.gitlab.com/"
             },
             {
-                "img": "https://banner2.kisspng.com/20180824/rxf/kisspng-logo-brand-salesforce-marketing-cloud-salesforce-c-social-id-integrations-coffeebean-technology-5b7fbd1b0907f5.868133171535098139037.jpg",
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_55/v1561612792/1200px-Salesforce_logo.svg_b9rjly.png",
                 "alt": "Salesforce",
-                "link": "salesforce"
+                "link": "https://www.salesforce.com/au/"
             }
         ],
         "silver": [
             {
-                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_50/v1528241130/IBM_logo_white.png",
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_55/v1561612995/500px-Stripe_Logo__revised_2016.svg_bqckqh.png",
                 "alt": "Stripe",
                 "link": "https://stripe.com/au"
-            },
+            }
+        ],
+        "community": [
             {
-                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_35/v1560205139/Thundra_white.png",
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_55/v1561613136/500px-MongoDB-Logo.svg_mtwtqj.png",
                 "alt": "MongoDB",
-                "link": "https://www.mongodb.com"
+                "link": "https://www.mongodb.com/"
             },
             {
-                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_65/v1529397141/DAZN_white.png",
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_55/v1561613218/shine_solutions_jgs2zj.png",
                 "alt": "Shine Solutions",
-                "link": "https://shinesolutions.com"
+                "link": "https://shinesolutions.com/"
             }
         ]
     },
     "speakers": {
-        "text": "The 2019 edition of ServerlessDays Sydney brings us a broad array of speakers and topics. The Serverless developer and engineer skillset needs to be wider than ever. We need to create and maintain secure, performant, observable, maintainable systems. We also need to be looking out for what is coming next, to keep providing value to our organisations. \n\r With this in mind we have a fantastic lineup, covering security, testing, serverless on the edge, big data and machine learning. We look to the future, with talks on WebAssembly and the new WebAssembly System Interface. We also have enterprises sharing what they're doing today in production. We hope this year's edition of ServerlessDays Sydney will have something for everyone.",
+        "text": "The 2019 edition of ServerlessDays Sydney brings us a broad array of speakers and topics. The Serverless developer and engineer skillset needs to be wider than ever. We need to create and maintain secure, performant, observable, maintainable systems. We also need to be looking out for what is coming next, to keep providing value to our organisations. \n\r With this in mind we have a fantastic lineup, covering security, testing, serverless on the edge, big data and machine learning. We look to the future, with talks on WebAssembly and the new WebAssembly System Interface. We also have enterprises sharing what they're doing today in production. We hope ServerlessDays Sydney will have something for everyone.",
         "lineup": [
             {
-                "img": "img/jeff-hollan.jpg",
-                "alt": "Jeff Hollan",
-                "link": "/speakers/jeff"
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1561613799/bret_nu6um3.jpg",
+                "alt": "Bret McGowen",
+                "link": "/speakers/bret"
             },
             {
-                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_240/v1560341859/London/2019/teriradichel.jpg",
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1561614070/danilo_zycvkf.jpg",
                 "alt": "Danilo Poccia",
                 "link": "/speakers/danilo"
             },
             {
-                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_400/v1560768639/London/2019/sheen.jpg",
-                "alt": "Sheen Brisals",
-                "link": "/speakers/sheen",
-                "talk": "Connecting LEGO play experience with millions requires an innovative platform. This fueled the cloud migration of the legacy eCommerce application. This talk will walk you through the principles, the approach, the learnings and of course the serverless technologies that made the vision a reality."
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1561613799/denis_xi8vhw.jpg",
+                "alt": "Denis Bauer",
+                "link": "/speakers/denis"
+            },
+            {
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1561613799/geshan_cevvss.jpg",
+                "alt": "Geshan Manandhar",
+                "link": "/speakers/geshan"
+            },
+            {
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1560864775/jeff-hollan_hhjrj5.jpg",
+                "alt": "Jeff Hollan",
+                "link": "/speakers/jeff"
+            },
+            {
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1561613799/yun_usfnwg.jpg",
+                "alt": "Yun Zhi Lin",
+                "link": "/speakers/yun"
             }
         ]
     },
@@ -143,10 +153,6 @@
         },
         {
             "time": "12:35",
-            "name": "Lightning Talk"
-        },
-        {
-            "time": "12:45",
             "name": "Lunch"
         },
         {
@@ -163,22 +169,26 @@
         },
         {
             "time": "15:15",
-            "name": "Break"
-        },
-        {
-            "time": "15:45",
             "name": "Lightning Talk"
         },
         {
-            "time": "16:00",
+            "time": "15:25",
+            "name": "Break"
+        },
+        {
+            "time": "15:55",
             "name": "Talk"
         },
         {
             "time": "16:30",
+            "name": "Talk"
+        },
+        {
+            "time": "17:05",
             "name": "Closing Keynote"
         },
         {
-            "time": "17:00",
+            "time": "17:30",
             "name": "Closing Remarks",
             "speaker": [
                 {
@@ -188,8 +198,8 @@
         }
     ],
     "venue": {
-        "text": "ServerlessDays will be hosted at **Darlinghurst Theatre Company** near the Oxford Art Factory. Located between Museum and Kings Cross stations, it is located in the cultural heartland of Sydney. Darlinghurst Theatre Company offers a lot of character as a venue and maintains itself in good proportion to its local surronds. ",
-        "image": "img/DarlinghurstTheatreCompany.jpg",
+        "text": "ServerlessDays will be hosted at Darlinghurst Theatre Company near the Oxford Art Factory. Located between Museum and Kings Cross stations, it is located in the cultural heartland of Sydney. Darlinghurst Theatre Company offers a lot of character as a venue and maintains itself in good proportion to its local surronds. ",
+        "image": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,w_480/v1561613359/DarlinghurstTheatreCompany_kqccao.jpg",
         "cta": {
             "path": "/tickets",
             "name": "Get Tickets"

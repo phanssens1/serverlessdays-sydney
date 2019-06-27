@@ -1,51 +1,25 @@
 {
     "layout": "news.njk",
     "page": {
-        "title": "ServerlessDays - News",
+        "title": "ServerlessDays Sydney - News",
         "description": "One Day. One Track. One Community",
         "url": "https://sydney.serverlessdays.io/news",
-        "image": "https://sydney.serverlessdays.io/img/SydneyHarbourOperaHouse.jpg",
-        "twitter": "https://twitter.com/SydDays",
-        "date": "27 August 2019",
-        "location": "Darlinghurst Theatre Company, Sydney"
+        "image": "https://res.cloudinary.com/du73ags2q/image/upload/v1561613359/SydneyHarbourOperaHouse_jvfdhr.jpg"
     },
-    "navBarItems": [
-        {
-            "key": "news",
-            "path": "/news",
-            "name": "News"
-        },
-        {
-            "key": "speakers",
-            "path": "/speakers",
-            "name": "Speakers"
-        },
-        {
-            "key": "sponsors",
-            "path": "/sponsors",
-            "name": "Sponsors"
-        },
-        {
-            "key": "coc",
-            "path": "/coc",
-            "name": "Code of Conduct"
-            },
-        {
-            "key": "tickets",
-            "path": "/tickets",
-            "name": "Tickets",
-            "cta": true
-        }
-    ],
     "lead": {
-        "headline": "Announcing ServerlessDays Sydney 2019",
-        "description": "ServerlessDays Sydney 2019 is happening on 27 August at Darlinghurst Theatre Company. Get your Serverless on!",
-        "date": "26 March 2019",
-        "link": "./announcing-serverless-days-2019",
-        "image": ""
+        "headline": "Announcing Keynotes and Speakers",
+        "description": "We're delighted to announce our keynotes and some of our first speakers. We're joined by Teri Radichel, Lin Clark, Till Schneidereit, and Sarah Drasner.",
+        "date": "18 June 2019",
+        "link": "./keynote-speakers-2019",
+        "image": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,w_400/v1560839614/London/2019/speaker_square.jpg"
     },
-    "contact": {
-        "email": "sydney@serverlessdays.io",
-        "twitter": "https://twitter.com/SydDays"
-    }
+    "posts": [
+        {
+            "headline": "Announcing ServerlessDays Sydney 2019",
+            "description": "ServerlessDays Sydney 2019 is happening on 27 August at Darlinghurst Theatre Company, Darlinghurst. New venue, expanded program, more Serverless! Get your Serverless on!",
+            "date": "26 March 2019",
+            "link": "./announcing-serverless-days-2019",
+            "image": ""
+        }
+    ]
 }

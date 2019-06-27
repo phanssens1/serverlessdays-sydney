@@ -2,23 +2,23 @@
     "layout": "speaker.njk",
     "page": {
         "title": "ServerlessDays Sydney - Jeff Hollan",
-        "description": "Alexandra is a Data Scientist at Datatonic working on large-scale innovation projects in Data Engineering and Machine Learning.",
-        "url": "https://sydney.serverlessdays.io/speakers/alexa",
-        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560810330/London/2019/alexa_card.jpg"
+        "description": "Jeff Hollan directs the WebAssembly tooling and runtime, and the Rust efforts at Mozilla. His team is responsible for Mozilla’s contributions to the Rust programming language; driving the Rust to WebAssembly compilation efforts; the Cranelift WebAssembly code generator; the Wasmtime WebAssembly runtime; and other projects around WebAssembly development and deployment.",
+        "url": "https://serverlessdays.io/speakers/jeff",
+        "image": "https://res.cloudinary.com/du73ags2q/image/upload/v1560864775/jeff-hollan_hhjrj5.jpg"
     },
     "speaker": {
         "name": "Jeff Hollan",
-        "title": "Data Scientist at Datatonic",
-        "img": "../img/jeff-hollan.jpg",
-        "bio": "Alexandra is a Data Scientist at Datatonic working on large-scale innovation projects in Data Engineering and Machine Learning, she spends most of her time creating data pipelines using Big Data technologies like Apache Beam and Airflow and building production ready ML models using Tensorflow. \r\nAlexandra is a curious mind who enjoys problem solving and exploring new technologies. She is an initiator of and passionate about the productionization of Machine Learning models.",
+        "title": "Senior Program Manager at Microsoft (Azure)",
+        "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1560864775/jeff-hollan_hhjrj5.jpg",
+        "bio": "Sr. Program Manager for the Azure Functions cloud service. Focused on driving cutting edge solutions for the platform and development services in Microsoft Azure. Help to define and prioritize the product backlog for Functions, lead design and development of features, and present to conferences and customers around the world. Believe that working closely with and understanding your users will result in the best product. Passionate about leveraging cloud technologies to enable innovative solutions that transform our world. ",
         "talk": {
-            "title": "Machine Learning on Mobile and Serverless",
-            "abstract" : "This talk is a technical case study of developing a cross-platform, mobile-friendly, highly-performant Product Identification model, using technologies such as AI Platform, Cloud Composer and Cloud Dataflow, which eliminates the need for packaging and labels in a global Cosmetics Retail business."
+            "title": "Talk title",
+            "abstract" : "Need jeffs abstract"
         },
         "social": [
             {
                 "name": "Twitter",
-                "link": "https://twitter.com/alexandraabbas",
+                "link": "https://twitter.com/jeffhollan",
                 "icon": "https://res.cloudinary.com/serverlessdays/image/upload/v1560336697/Twitter.svg"
             }
         ],

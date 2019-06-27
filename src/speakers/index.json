@@ -4,24 +4,38 @@
         "title": "ServerlessDays Sydney - Speakers",
         "description": "One Day. One Track. One Community",
         "url": "https://sydney.serverlessdays.io/speakers",
-        "image": "https://res.cloudinary.com/serverlessdays/image/upload/v1560353326/London/2019/serverlessdays_card.jpg"
+        "image": "https://res.cloudinary.com/du73ags2q/image/upload/v1561613359/SydneyHarbourOperaHouse_jvfdhr.jpg"
     },
     "speakers" :  [
         {
-            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_400/v1560341859/London/2019/teriradichel.jpg",
-            "alt": "Jeff Hollan",
-            "link": "/speakers/jeff"
+            "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1561613799/bret_nu6um3.jpg",
+            "alt": "Bret McGowen",
+            "link": "/speakers/bret"
         },
         {
-            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_400/v1560341859/London/2019/teriradichel.jpg",
+            "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1561614070/danilo_zycvkf.jpg",
             "alt": "Danilo Poccia",
             "link": "/speakers/danilo"
         },
         {
-            "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_400/v1560768639/London/2019/sheen.jpg",
-            "alt": "Sheen Brisals",
-            "link": "/speakers/sheen",
-            "talk": "Connecting LEGO play experience with millions requires an innovative platform. This fueled the cloud migration of the legacy eCommerce application. This talk will walk you through the principles, the approach, the learnings and of course the serverless technologies that made the vision a reality."
+            "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1561613799/denis_xi8vhw.jpg",
+            "alt": "Denis Bauer",
+            "link": "/speakers/denis"
+        },
+        {
+            "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1561613799/geshan_cevvss.jpg",
+            "alt": "Geshan Manandhar",
+            "link": "/speakers/geshan"
+        },
+        {
+            "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1560864775/jeff-hollan_hhjrj5.jpg",
+            "alt": "Jeff Hollan",
+            "link": "/speakers/jeff"
+        },
+        {
+            "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1561613799/yun_usfnwg.jpg",
+            "alt": "Yun Zhi Lin",
+            "link": "/speakers/yun"
         }
     ]
 }

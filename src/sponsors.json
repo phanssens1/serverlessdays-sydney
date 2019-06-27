@@ -1,65 +1,69 @@
 {
     "layout": "sponsors.njk",
     "page": {
-        "title": "ServerlessDays - Sponsors",
+        "title": "ServerlessDays Sydney - Sponsors",
         "description": "One Day. One Track. One Community",
         "url": "https://sydney.serverlessdays.io/sponsors",
-        "image": "https://sydney.serverlessdays.io/img/SydneyHarbourOperaHouse.jpg",
-        "twitter": "https://twitter.com/SydDays"
+        "image": "https://res.cloudinary.com/du73ags2q/image/upload/v1561613359/SydneyHarbourOperaHouse_jvfdhr.jpg"
     },
     "sponsor": {
         "cta": {
-            "path": "/static/ServerlessDaysSydney_SponsorProspectus_20190321.pdf",
+            "path": "/static/ServerlessDaysSydney_SponsorProspectus.pdf",
             "name": "Download"
         }
     },
     "sponsors": {
         "platinum": [
             {
-                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_115/v1528241128/Amazon_Web_Services_Logo_white.png",
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_85/v1560864763/83f.AWS_logo_RGB_qipiis.png",
                 "alt": "Amazon Web Services",
                 "link": "https://aws.amazon.com"
             },
             {
-                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_85/v1559653248/cloudflare.png",
-                "alt": "Cloudflare",
-                "link": "https://cloudflare.com"
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_130/v1560864795/MS-Azure_logo_stacked_c-gray_rgb_t2fuwb.png",
+                "alt": "Microsoft Azure",
+                "link": "https://azure.microsoft.com/"
+            },
+            {
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_90/v1560864765/Contino_Logo_white_PRINT_stougi.png",
+                "alt": "Contino",
+                "link": "https://www.contino.io/"
             }
         ],
         "gold": [
             {
-                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_45/v1529401537/google-cloud-logo-white.png",
+                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_35/v1529401537/google-cloud-logo-white.png",
                 "alt": "Google Cloud Platform",
                 "link": "https://cloud.google.com"
+            },
+            {
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_90/v1560864769/gitlab-icon-rgb_l0ye82.png",
+                "alt": "Gitlab",
+                "link": "https://about.gitlab.com/"
+            },
+            {
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_55/v1561612792/1200px-Salesforce_logo.svg_b9rjly.png",
+                "alt": "Salesforce",
+                "link": "https://www.salesforce.com/au/"
             }
         ],
         "silver": [
             {
-                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_50/v1528241130/IBM_logo_white.png",
-                "alt": "IBM",
-                "link": "https://cloud.ibm.com"
-            },
-            {
-                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_35/v1560205139/Thundra_white.png",
-                "alt": "Thundra",
-                "link": "https://thundra.io"
-            },
-            {
-                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_65/v1529397141/DAZN_white.png",
-                "alt": "DAZN",
-                "link": "https://www.dazn.com"
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_55/v1561612995/500px-Stripe_Logo__revised_2016.svg_bqckqh.png",
+                "alt": "Stripe",
+                "link": "https://stripe.com/au"
             }
         ],
         "community": [
             {
-                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_25/v1528242508/reason-white.png",
-                "alt": "Reason",
-                "link": "https://reason.co"
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_55/v1561613136/500px-MongoDB-Logo.svg_mtwtqj.png",
+                "alt": "MongoDB",
+                "link": "https://www.mongodb.com/"
             },
             {
-                "img": "https://res.cloudinary.com/serverlessdays/image/upload/c_scale,h_30/v1559601231/London/2019/nearst.png",
-                "alt": "NearSt",
-                "link": "https://near.st"
+                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_55/v1561613218/shine_solutions_jgs2zj.png",
+                "alt": "Shine Solutions",
+                "link": "https://shinesolutions.com/"
             }
         ]
     }

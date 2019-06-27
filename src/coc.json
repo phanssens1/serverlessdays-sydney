@@ -1,13 +1,10 @@
 {
     "layout": "coc.njk",
     "page": {
-        "title": "ServerlessDays - Code of Conduct",
-        "description": "The third edition of ServerlessDays Sydney is upon us, new venue, higher capacity, bigger program. Get your Serverless on!",
+        "title": "ServerlessDays Sydney - Home",
+        "description": "One Day. One Track. One Community",
         "url": "https://sydney.serverlessdays.io/coc",
-        "image": "https://sydney.serverlessdays.io/img/SydneyHarbourOperaHouse.jpg",
-        "twitter": "https://twitter.com/SydDays",
-        "date": "27 August 2019",
-        "location": "Darlinghurst Theatre Company, Sydney"
+        "image": "https://res.cloudinary.com/du73ags2q/image/upload/v1561613359/SydneyHarbourOperaHouse_jvfdhr.jpg"
     },
     "navBarItems": [
         {
@@ -39,6 +36,6 @@
     ],
     "contact": {
         "email": "sydney@serverlessdays.io",
-        "twitter": "https://twitter.com/SydDays"
+        "twitter": "https://twitter.com/@SydDays"
     }
 }

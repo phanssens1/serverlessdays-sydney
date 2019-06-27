@@ -1,10 +1,9 @@
 {
     "layout": "coc.njk",
     "page": {
-        "title": "ServerlessDays - Privacy Policy",
+        "title": "ServerlessDays Sydney - Privacy Policy",
         "description": "One Day. One Track. One Community",
         "url": "https://sydney.serverlessdays.io/privacy",
-        "image": "https://sydney.serverlessdays.io/img/SydneyHarbourOperaHouse.jpg",
-        "twitter": "https://twitter.com/SydDays"
+        "image": "https://res.cloudinary.com/du73ags2q/image/upload/v1561613359/SydneyHarbourOperaHouse_jvfdhr.jpg"
     }
 }
