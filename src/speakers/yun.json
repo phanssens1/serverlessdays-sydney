@@ -10,9 +10,9 @@
         "name": "Yun Zhi Lin",
         "title": "Head of Innovation at Contino",
         "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1561613799/yun_usfnwg.jpg",
-        "bio": "Yun aka 'Mr Serverless' is a blended technology executive for disruptive organisation look to deliver rapid business value. Over the last 17 years, he has worked across the entire spectrum of architecture evolution: from mainframes to ESB, Container Microservices and Serverless Functions. Whilst successfully transforming and launching new lines of business for some of the largest companies global and local, across both enterprise and startups.",
+        "bio": "Yun aka 'Mr Serverless' is a blended technology executive for disruptive organisation look to deliver rapid business value. Over the last 17 years, he has worked across the entire spectrum of architecture evolution: from mainframes to ESB, Container Microservices and Serverless Functions. Whilst successfully transforming and launching new lines of business for some of the largest companies global and local, across both government, enterprise and startups. He is the author of A Cloud Guru AWS Lambdas Benchmarks.",
         "talk": {
-            "title": "The Art of Serverless Business Value: told through Serverless AI Driven Transportation, various Enterprise War Stories, and Serverless Multi-Cloud Benchmark",
+            "title": "The Art of Serverless Business Value: told through AI-Driven GovTech, Enterprise War Stories, and Serverless Multi-Cloud Benchmark",
             "abstract" : "The point of serverless is to focus on business value. But what exactly is serverless business value? Why is serverless becoming gov minister/strategic C level conversation? Where are we in mainstream adoption? How does each cloud provider compare? Is there life beyond serverless? Come and find out! "
         },
         "social": [
