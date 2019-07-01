@@ -2,15 +2,15 @@
     "layout": "speaker.njk",
     "page": {
         "title": "ServerlessDays Sydney - Jeff Hollan",
-        "description": "Jeff Hollan directs the WebAssembly tooling and runtime, and the Rust efforts at Mozilla. His team is responsible for Mozilla’s contributions to the Rust programming language; driving the Rust to WebAssembly compilation efforts; the Cranelift WebAssembly code generator; the Wasmtime WebAssembly runtime; and other projects around WebAssembly development and deployment.",
+        "description": "Jeff works as part of the Azure engineering team based at Microsoft in Redmond. When he’s not busy helping the Functions team deliver new and exciting capabilities to developers, Jeff can be found presenting at major conferences and meetups around the world, including keynoting ServerlessConf in San Francisco. Jeff has worked across a range of engineering teams and is a key member of the global serverless community. He hosts the Azure Functions channel on YouTube, is involved with the KEDA project and can be reached via Twitter @jeffhollan.",
         "url": "https://serverlessdays.io/speakers/jeff",
         "image": "https://res.cloudinary.com/du73ags2q/image/upload/v1560864775/jeff-hollan_hhjrj5.jpg"
     },
     "speaker": {
         "name": "Jeff Hollan",
-        "title": "Senior Program Manager at Microsoft (Azure)",
+        "title": "Senior Program Manager Lead, Azure Functions at Microsoft (Azure)",
         "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1560864775/jeff-hollan_hhjrj5.jpg",
-        "bio": "Sr. Program Manager for the Azure Functions cloud service. Focused on driving cutting edge solutions for the platform and development services in Microsoft Azure. Help to define and prioritize the product backlog for Functions, lead design and development of features, and present to conferences and customers around the world. Believe that working closely with and understanding your users will result in the best product. Passionate about leveraging cloud technologies to enable innovative solutions that transform our world. ",
+        "bio": "Jeff works as part of the Azure engineering team based at Microsoft in Redmond. When he’s not busy helping the Functions team deliver new and exciting capabilities to developers, Jeff can be found presenting at major conferences and meetups around the world, including keynoting ServerlessConf in San Francisco. Jeff has worked across a range of engineering teams and is a key member of the global serverless community. He hosts the Azure Functions channel on YouTube, is involved with the KEDA project and can be reached via Twitter @jeffhollan.",
         "talk": {
             "title": "Talk title",
             "abstract" : "Need jeffs abstract"
