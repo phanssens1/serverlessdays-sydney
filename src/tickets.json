@@ -10,7 +10,7 @@
         {
             "title": "Standard Ticket",
             "description": "Standard Admission",
-            "price": "$59",
+            "price": "$69",
             "cta": {            
                 "path": "https://ti.to/serverless-days-sydney/serverless-days-sydney-2019",
                 "name": "Buy"

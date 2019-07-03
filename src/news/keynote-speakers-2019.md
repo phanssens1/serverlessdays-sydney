@@ -39,7 +39,7 @@ Exciting huh?! More details on all the other talks will be published shortly….
 
 ### Tickets
 
-Tickets are still available at [https://sydney.serverlessdays.io/tickets/](https://sydney.serverlessdays.io/tickets/) and only $59 for a full-days talks on everything serverless and access to a free workshop. Tickets are selling faster than last year and we expect to be sold out again in 2019. Don't wait to get your ticket to the last minute and miss out...
+Tickets are still available at [https://sydney.serverlessdays.io/tickets/](https://sydney.serverlessdays.io/tickets/) and only $69 for a full-days talks on everything serverless and access to a free workshop. Tickets are selling faster than last year and we expect to be sold out again in 2019. Don't wait to get your ticket to the last minute and miss out...
 
 ### Workshops
 
