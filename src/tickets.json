@@ -24,15 +24,6 @@
                 "path": "https://ti.to/serverless-days-sydney/serverless-days-sydney-2019",
                 "name": "Buy"
             }
-        },
-        {
-            "title": "Scholarship",
-            "description": "Are you from an under represented minority? Apply for our scholarship via diversitytickets.org",
-            "price": "$0",
-            "cta": {            
-                "path": "https://diversitytickets.org/en/events/420",
-                "name": "Apply"
-            }
         }
     ]
 }
