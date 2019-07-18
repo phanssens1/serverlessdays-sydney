@@ -8,7 +8,7 @@
     },
     "speaker": {
         "name": "Dale Salter",
-        "title": "Software Development Lead at A Cloud Guru at A Cloud Guru",
+        "title": "Software Development Lead at A Cloud Guru",
         "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1563320914/DaleSalter_bvxttf.jpg",
         "bio": "Dale Salter has been working on production AWS Serverless systems for 3 years. Dale works within and across teams to design Serverless only architectures. One of his major interests is how to go beyond parity with Serverful applications in a Serverless only way. ",
         "talk": {
