@@ -8,14 +8,19 @@
     },
     "organisers" :  [
         {
-            "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1565246112/SHAY_PROFILE_PIC_mfjbw3.jpg",
-            "alt": "Shay Hamama",
-            "link": "/organisers/shay"
-        },
-        {
             "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1565246156/peterhanssens_b31umj.jpg",
             "alt": "Peter Hanssens",
             "link": "/organisers/peter"
+        },
+        {
+            "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1565252209/robert2_hgvhay.jpg",
+            "alt": "Robert Preswick",
+            "link": "/organisers/robert"
+        },
+        {
+            "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1565250903/shay_gzawtb.png",
+            "alt": "Shay Hamama",
+            "link": "/organisers/shay"
         }
     ]
 }
