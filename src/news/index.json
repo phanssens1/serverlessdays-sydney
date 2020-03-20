@@ -22,19 +22,22 @@
             "key": "coc",
             "path": "/coc",
             "name": "Code of Conduct"
-        },
-        {
-            "key": "tickets",
-            "path": "https://www.tickettailor.com/events/serverlessdayssydney/357277",
-            "name": "Tickets",
-            "cta": "true"
         }
     ],
-    "lead": {
-        "headline": "Announcing ServerlessDays Sydney 2020",
-        "description": "ServerlessDays Sydney 2020 is happening on 18 August at SMC Conference & Function Centre, Sydney. New venue, expanded program, more Serverless! Get your Serverless on!",
-        "date": "29 February 2020",
-        "link": "./announcing-serverless-days-2020",
-        "image": ""
-    }
+    "leads": [
+        {
+            "headline": "COVID-19 (Coronavirus) Update ServerlessDays Sydney 2020",        
+            "description": "An important update on COVID-19 (Coronavirus) Update for ServerlessDays Sydney 2020 ",
+            "date": "20 March 2020",
+            "link": "./covid19-update-serverless-days-2020",
+            "image": ""
+        },
+        {
+            "headline": "Announcing ServerlessDays Sydney 2020",
+            "description": "ServerlessDays Sydney 2020 is happening on 18 August at SMC Conference & Function Centre, Sydney. New venue, expanded program, more Serverless! Get your Serverless on!",
+            "date": "29 February 2020",
+            "link": "./announcing-serverless-days-2020",
+            "image": ""
+        }        
+    ]
 }
