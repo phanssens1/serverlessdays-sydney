@@ -1,8 +1,8 @@
-# CORVID19 (Coronavirus) Update
+# COVID-19 (Coronavirus) Update
 
 ### 20th March 2020
 
-ServerlessDays Sydney is currently scheduled for August 19, 2020.
+ServerlessDays Sydney is currently scheduled for August 17 and 18, 2020.
 
 The organising committee for ServerlessDays Sydney is actively and continuously monitoring the COVID-19 virus outbreak in line with Australian Government public health advice and the World Health Organization (WHO). 
 

@@ -54,8 +54,8 @@
         }
     ],
     "cta": {
-        "path": "https://www.tickettailor.com/events/serverlessdayssydney/357277",
-        "name": "Buy Tickets"
+        "path": "./news",
+        "name": "Latest News"
     },
     "altCTA": {
         "path": "./static/ServerlessDaysSydney_SponsorProspectus.pdf",
@@ -83,7 +83,7 @@
     {
         "name": "Find out more",
         "text": "ServerlessDays will be hosted at **SMC Conference & Function Centre** near Museum Station. Located between Central, Town Hall and Museum stations, it has a wonderful access to the rest of the city with Hyde Park and Darling Quarter, some of the attractions within walking distnace. ",
-        "image": "img/smc-banquethall.jpg",        
+        "image": "img/smc-banquethall.jpg"     
     }
 ],
 "contact": {
