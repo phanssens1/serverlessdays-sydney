@@ -72,15 +72,6 @@
         }
     },
     {
-        "name": "Sponsor",
-        "text": "Steve O'Grady writes in **The New Kingmakers** that the most successful companies today are those that understand the strategic role that developers will play in their success or failure. ServerlessDays events are attended by developers pushing the boundaries of new technology, to the benefit of the organisations they work for, whether it's a startup looking to change the world, or an established 300 year old bank that continues to change the world. Get in front of these New Kingmakers at ServerlessDays Sydney.",
-        "image": "img/sponsor_grid.svg",
-        "cta": {
-            "path": "./static/ServerlessDaysSydney_SponsorProspectus.pdf",
-            "name": "Sponsor"
-        }
-    },
-    {
         "name": "Find out more",
         "text": "ServerlessDays will be hosted at **SMC Conference & Function Centre** near Museum Station. Located between Central, Town Hall and Museum stations, it has a wonderful access to the rest of the city with Hyde Park and Darling Quarter, some of the attractions within walking distnace. ",
         "image": "img/smc-banquethall.jpg"     
