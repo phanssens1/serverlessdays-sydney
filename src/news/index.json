@@ -26,6 +26,13 @@
     ],
     "leads": [
         {
+            "headline": "ServerlessDays Sydney is now ServerlessDays ANZ 2020",        
+            "description": "ServerlessDays Sydney is combining forces with the rest of Australia and New Zealand to run one massive, amazing, remote-first, mult-track event dedicated to Serverless.",
+            "date": "2 July 2020",
+            "link": "./serverless-anz-days-2020",
+            "image": ""
+        },
+        {
             "headline": "COVID-19 (Coronavirus) Update ServerlessDays Sydney 2020",        
             "description": "An important update on COVID-19 (Coronavirus) Update for ServerlessDays Sydney 2020 ",
             "date": "20 March 2020",
