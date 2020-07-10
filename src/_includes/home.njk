@@ -49,12 +49,13 @@ layout: base.njk
                 <p>We will have the best speakers from Australia, New Zealand and around the World, with tracks ranging from beginner to advanced level.
                 <p>It's free, and you can attend from anywhere</p>
             </div>
-            <div class="mt4 mt4-ns"><a class="pv2 ph3 ph4-ns f5 f4-ns no-underline ba br2 b--transparent mr2 secondaryConstrastBkg secondaryContrastColor" href="https://anz.serverlessdays.io/">Read More</a></div>
+            <div class="mt4 mt4-ns">
+                <a class="pv2 ph3 ph4-ns f5 f4-ns no-underline ba br2 b--transparent mr2 secondaryConstrastBkg secondaryContrastColor" href="https://anz.serverlessdays.io/">Read More</a>
+            </div>
         </div>
         <div class="w-100 w-10-l dn db-l">
         </div>
         <div class="dt w-100 w-40-m w-30-l ph3 ph0-ns"> 
-
         </div>
     </div>
 </div>
@@ -81,7 +82,7 @@ layout: base.njk
         </div>
     </div>
 </div>
-<div class="w-100 ph1 pv3 pa3-ns tl f4 tertiaryColor tertiaryBkg">
+{# <div class="w-100 ph1 pv3 pa3-ns tl f4 tertiaryColor tertiaryBkg">
     <div class="flex-ns mv3 mv5-l">
         <div class="w-100 w-05-l dn db-l">
         </div>
@@ -94,8 +95,8 @@ layout: base.njk
             <div class="mt4"><a class="pv2 ph3 ph4-ns f5 f4-ns no-underline ba br2 b--transparent mr2-l tertiaryContrastColor tertiaryContrastBkg" href="{{ section[1].cta.path }}" target="_blank">{{ section[1].cta.name }}</a></div>
         </div>
     </div>
-</div>
-<div class="w-100 ph1 pv3 pa3-ns f5 f4-ns tl f5 f4-ns primaryColor primaryBkg">
+</div> #}
+{# <div class="w-100 ph1 pv3 pa3-ns f5 f4-ns tl f5 f4-ns primaryColor primaryBkg">
     <div class="flex-ns mv3 mv5-ns">
         <div class="w-100 w-05-l dn db-l">
         </div>
@@ -108,5 +109,5 @@ layout: base.njk
             <img class="ba br3 b--transparent pt4 pt0-ns cover" height="320" src="{{ section[2].image }}"/>
         </div>
     </div>
-</div>
+</div> #}
 {% include 'signup.njk' %}
