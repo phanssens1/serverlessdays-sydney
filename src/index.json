@@ -95,11 +95,6 @@
                 "link": "/speakers/ben"
             },
             {
-                "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1561613799/bret_nu6um3.jpg",
-                "alt": "Bret McGowen",
-                "link": "/speakers/bret"
-            },
-            {
                 "img": "https://res.cloudinary.com/du73ags2q/image/upload/c_scale,h_400/v1561614070/danilo_zycvkf.jpg",
                 "alt": "Danilo Poccia", 
                 "link": "/speakers/danilo"
@@ -255,17 +250,6 @@
         {
             "time": "12:45",
             "name": "Lunch"
-        },
-        {
-            "time": "13:40",
-            "name": "Keynote",
-            "speaker": [
-                {
-                    "name": "Bret McGowen",
-                    "link": "/speakers/bret",
-                    "company": "Google"
-                }
-            ]
         },
         {
             "time": "14:15",
